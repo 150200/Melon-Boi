@@ -1,0 +1,18 @@
+body {
+      background-color: rgb(236, 201, 0);
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 206, 233);
+
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aquamarine;
+}
+
+.title {
+    font-style: italic;
+}
