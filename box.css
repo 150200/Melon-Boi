@@ -1,0 +1,26 @@
+html {
+    height:100%
+}
+
+body{
+    background-color: red;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+#balk {
+    background-color: yellowgreen;
+    width: 80%;
+    height: 15%;
+}
+
+#container {
+    background-color: orangered;
+    width: 80%;
+    height: 15%;
+}
+
+
+
+
