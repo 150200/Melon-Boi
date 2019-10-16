@@ -9,6 +9,10 @@ body{
     height: 100%;
 }
 
+div {
+    display: inline;
+}
+
 #balk {
     background-color: yellowgreen;
     width: 80%;
@@ -18,7 +22,14 @@ body{
 #container {
     background-color: orangered;
     width: 80%;
-    height: 15%;
+    height: 75%;
+
+}
+
+#bleh {
+    width: 60%;
+    height: 100%;
+
 }
 
 
