@@ -6,7 +6,7 @@ html,body {
 }
 
 body {
-background-color: #a2dbe2;
+background-color: #ffffff;
 }
 
 #container,#balk {
@@ -34,26 +34,26 @@ background-color: #a2dbe2;
 
 #menu {
     width: 20%;
-    background-color: rgba(25, 0, 255, 0.514);
+    background-color: #7D2E68;
     margin: 5px;
 }
 
 #inhoud {
     width: 50%;
-    background-color: rgba(25, 0, 255, 0.514);
+    background-color: #7D2E68;
     margin-top: 5px;
-    color: rgb(20, 188, 194);
+    color: pink;
 }
 
 #beeld {
     width: 30%;
-    background-color: rgba(25, 0, 255, 0.514);
+    background-color: #7D2E68;
     margin: 5px;
 }
 
 ul {
     list-style-type: none;
-    background-color: rgba(59, 7, 80, 0.582);
+    background-color: #F04E6F;
     text-align: center;
     font-size: 30px;
     padding: 0;
