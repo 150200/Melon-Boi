@@ -6,7 +6,7 @@ html,body {
 }
 
 body {
-background-color: #ffffff;
+background-color: #a2dbe2;
 }
 
 #container,#balk {
@@ -34,20 +34,20 @@ background-color: #ffffff;
 
 #menu {
     width: 20%;
-    background-color: #7D2E68;
+    background-color: rgb(241, 225, 132);
     margin: 5px;
 }
 
 #inhoud {
     width: 50%;
-    background-color: #7D2E68;
+    background-color: rgb(241, 225, 132);
     margin-top: 5px;
     color: pink;
 }
 
 #beeld {
     width: 30%;
-    background-color: #7D2E68;
+    background-color: rgb(241, 225, 132);
     margin: 5px;
 }
 
