@@ -34,20 +34,20 @@ background-color: #a2dbe2;
 
 #menu {
     width: 20%;
-    background-color: rgb(241, 225, 132);
+    background-color: rgba(7, 184, 160, 0.685);
     margin: 5px;
 }
 
 #inhoud {
     width: 50%;
-    background-color: rgb(241, 225, 132);
+    background-color: rgba(7, 184, 160, 0.685);
     margin-top: 5px;
     color: pink;
 }
 
 #beeld {
     width: 30%;
-    background-color: rgb(241, 225, 132);
+    background-color: rgba(7, 184, 160, 0.685);
     margin: 5px;
 }
 
