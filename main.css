@@ -16,7 +16,7 @@ background-color: #ffffff;
 #balk {
     height: 15%;
     background-color: #9C0D38;
-    font-size: 120px;
+    font-size: 100px;
     display: flex;
     color: white;
     text-align: center;
@@ -43,6 +43,7 @@ background-color: #ffffff;
     background-color: #7D2E68;
     margin-top: 5px;
     color: pink;
+    height: 100%;
 }
 
 #beeld {
